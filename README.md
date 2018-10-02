@@ -1,2 +1,2 @@
 # script-collection
-collection of scripts 
+collection of youtube-dl scripts 
